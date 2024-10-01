@@ -1,4 +1,4 @@
-# Relatório da TP1
+# Relatório do TPC1
 ## Data: 2024-09-09
 ## Autor: Bianca de Araújo Pereira
 
