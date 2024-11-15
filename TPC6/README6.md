@@ -1,5 +1,5 @@
 # Relatório do TPC6
-## Data: 2024-09-30
+## Data: 2024-10-15
 ## Autor: Bianca de Araújo Pereira
 
 ## Resumo
