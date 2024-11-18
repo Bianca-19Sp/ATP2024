@@ -1,5 +1,5 @@
 # Relatório do TPC8
-## Data: 2024-10-21/23
+## Data: 2024-10-28/30
 ## Autor: Bianca de Araújo Pereira
 
 ## Resumo
